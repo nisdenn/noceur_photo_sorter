@@ -1,4 +1,4 @@
-# NOCEUR SORTER
+# NOCEUR PHOTO SORTER
 
 > Modern desktop application for fast photo & video sorting with clean UI, keyboard shortcuts, batch sorting, duplicate finder, and auto rename system.
 
